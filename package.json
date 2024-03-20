@@ -2,8 +2,8 @@
   "name": "@boomworks/payload-plugin-author-fields",
   "version": "1.1.8",
   "description": "Payload CMS plugin to add created & updated by fields",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
   "scripts": {
     "start": "tsc -w",
     "build": "tsc",
